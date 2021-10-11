@@ -6,10 +6,6 @@
 {
     width: 100%;
 }
-.big_image
-{
-    width:100%;
-}
 .heading
 {
     float: left;
@@ -19,4 +15,13 @@
 .Instruction
 {
     float: right;
+}
+#h4
+{
+    bottom: 0;
+    background-color: red;
+}
+.modal-dialog
+{
+    width: 90%;
 }
