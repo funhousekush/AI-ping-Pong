@@ -1,0 +1,22 @@
+.heading,  .Instruction
+{
+    display: inline;
+}
+.header_div
+{
+    width: 100%;
+}
+.big_image
+{
+    width:100%;
+}
+.heading
+{
+    float: left;
+    border: 3px solid red;
+    background-color: pink;
+}
+.Instruction
+{
+    float: right;
+}
