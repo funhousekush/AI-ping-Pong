@@ -25,3 +25,7 @@
 {
     width: 90%;
 }
+canvas
+{
+    border: 3px dotted red;
+}
